@@ -17,5 +17,6 @@ namespace GestorEmail
         Email=email;
 
          }
+        public Contacto() { }
     }
 }
